@@ -21,9 +21,9 @@ Welcome to the Number Guessing Game! This simple web-based game challenges playe
 - Real-time feedback on each guess.
 - Visual indication of winning with a green background and Correct Number sign.
 
-## Try it Out
-
-Feel free to play the game and test your guessing skills! 
+## Try it Out (Live Demo Link)
+Feel free to play the game and test your guessing skills!
+[https://gulamquadir500.github.io/Number-Guessing-Game/]
 
 ## Getting Started
 
